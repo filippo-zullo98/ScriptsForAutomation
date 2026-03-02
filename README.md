@@ -2,7 +2,7 @@
 
 Una raccolta di script Bash e Python nati per automatizzare task comuni su sistemi Linux (testati su Debian e Fedora).
 
-## 🚀 Script inclusi
+## Script inclusi
 
 ### 1. 💿 PS2 ISO Creator (`crea_iso_ps2.sh`)
 Uno script Bash per creare immagini ISO dai propri dischi originali per PlayStation 2.
