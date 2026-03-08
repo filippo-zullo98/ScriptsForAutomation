@@ -1,4 +1,4 @@
-# ScriptsForAutomationLinux 🐧
+# ScriptsForAutomation
 
 Una raccolta di script Bash e Python nati per automatizzare task comuni su sistemi Linux (testati su Debian e Fedora).
 
